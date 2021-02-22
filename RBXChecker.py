@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 try:
     import requests, re, string, time, random, os, ctypes
     from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -69,7 +69,7 @@ try:
 except:
     print("ERROR: Please restart programme")    
     input("Press enter to exit.")
-=======
+
 try:
     import requests, re, string, time, random, os, ctypes
     from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -148,5 +148,4 @@ try:
 except:
     print("ERROR: Please restart programme")    
     input("Press enter to exit.")
->>>>>>> 73b5fc86e9396bf89e0c52b1a488b6fc948e4d7f
 ###threading###
